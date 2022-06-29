@@ -25,7 +25,7 @@ public class Tarea3 {
        
         
         //mostrar el numero de puertas que tiene el objeto
-        System.out.println("Numero de puertas que tiene el pbjeto"+ miCoche.numPuertas);
+        System.out.println("Numero de puertas que tiene el Objeto: "+ miCoche.numPuertas);
         
     }
     //primera parte: Funcion con tres parametros

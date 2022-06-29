@@ -24,7 +24,7 @@ public class Tarea3 {
         miCoche.Incrementar();
        
         
-        //mostrar el numero de puertas que tiene el objeto
+        //mostrar el numero de puertas que tiene el objeto(segunda parte)
         System.out.println("Numero de puertas que tiene el Objeto: "+ miCoche.numPuertas);
         
     }
